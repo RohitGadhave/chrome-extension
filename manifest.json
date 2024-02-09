@@ -1,0 +1,11 @@
+{
+    "name": "Auto search",
+    "version": "1.0.0",
+    "description": "chrome extension for random query search on bing search engine",
+    "manifest_version": 3,
+    "author": "Rohit Gadhave",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Auto search"
+    }
+}
